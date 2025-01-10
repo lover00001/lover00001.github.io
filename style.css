@@ -1,0 +1,47 @@
+*{
+    background: black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.titles{
+    color: red;
+    text-align: center;
+    
+}
+
+.titles2{
+    color: white;
+    text-align: center;
+
+}
+
+.year{
+
+    background:rgb(4, 11, 107);
+    width: 80px;
+    height: 30px;
+    padding: 50px;
+    border-color: rgb(107, 4, 4);
+    border-top: 20px;
+    margin: auto;
+    color: white;
+}    
+
+.days{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jen{
+
+    background:rgb(34, 197, 1);
+    width: 80px;
+    height: 30px;
+    padding: 50px;
+    border-color: rgb(107, 4, 4);
+    border-top: 20px;
+    margin: auto;
+    color: white;
+}    
+
